@@ -12,6 +12,10 @@ export type { Props as TabBarItemProps } from './TabBarItem';
 export { default as TouchableItem } from './TouchableItem';
 
 export { default as SceneMap } from './SceneMap';
+
+export { default as Pager } from './Pager';
+export type { Props as PagerProps } from './Pager';
+
 export { default as ScrollPager } from './ScrollPager';
 
 export type { Route, NavigationState, SceneRendererProps } from './types';
